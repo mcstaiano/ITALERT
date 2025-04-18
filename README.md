@@ -12,5 +12,6 @@ The annotations capture:
 ---
 
 **Paper**: ITALERT: Assessing the Quality of LLMs and NMT in Translating Italian Emergency Response Text 
+
 Maria Carmen Staiano, Lifeng Han, Johanna Monti, and Francesca Chiusaroli.  
 In 20th Machine Translation Summit: Translator and Users Track, Geneva, Switzerland.  
