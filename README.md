@@ -12,4 +12,4 @@ The annotations capture:
 
 ---
 **Paper**:  
-Staiano, M. C., Han, L., Monti, J., & Chiusaroli, F. (2025). ITALERT: Assessing the quality of LLMs and NMT in translating Italian emergency response text. In Proceedings of the 20th Machine Translation Summit, Translator and Users Track. Geneva, Switzerland.
+Staiano, M. C., Han, L., Monti, J., & Chiusaroli, F. (2025). ITALERT: : Assessing the Quality of LLMs and NMT in Translating Italian Emergency Response Text. In Proceedings of the 20th Machine Translation Summit, Translator and Users Track. Geneva, Switzerland.
